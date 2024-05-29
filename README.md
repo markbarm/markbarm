@@ -1,9 +1,11 @@
 ## Seja Bemvindo 👋
 
+Eu estou aprimorando habilidade para me tornar um cientista de dados.
+
 <!--
 **markbarm/markbarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Eu estou aprimorando habilidade para me tornar um cientista de dados.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
