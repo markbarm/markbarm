@@ -1,18 +1,16 @@
-## Seja Bemvindo 👋
+## Olá meu nome é Mark 👋
 
-Eu estou aprimorando habilidade para me tornar um cientista de dados.
-
-<!--
-**markbarm/markbarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- Sou professor de Matemática, Fisica e Tecnologia na rede de ensino público.
+- Faço cursos de tecnologia e programação na plataforma [Alura]{https://www.alurastart.com.br/}
+- Estou cursando uma disciplina no Programa de Mestrado Profissional em Matemática, Estatística e Computação Aplicadas à Industria.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Podem entrar em contato comigo por 📫
+
+- markbarm@gmail.com
+
+
+
+
+
+
